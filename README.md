@@ -44,7 +44,7 @@ The first intial steps of this project is to create a resource group and virtual
  />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download PHP manager and create a directory within your virtual machine. Create a new folder within your C drive and extract content within that file. Also install a rewrite module that allows certain urls and configs. 
 </p>
 <br />
 
