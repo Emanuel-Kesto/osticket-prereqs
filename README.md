@@ -52,7 +52,8 @@ Download PHP manager and create a directory within your virtual machine. Create 
 <img <img width="767" alt="osTicket set up" src="https://github.com/user-attachments/assets/d419fd94-5a3e-4735-ac4e-b589bd6939db">
  />
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Download mysql server and install osTicket. Extract and copy the upload folder from osTicket and put it in inetpub/wwww.root folder. enable php extensions, add persmissions to config.php file, and download heidi which is a database client. Create a new database wothin heidi and osTicket should be up and running.  
 </p>
 <br />
